@@ -4,7 +4,7 @@ Team Lahman is pleased to announce that version 13.0.0 of the Lahman package is 
 on CRAN.  It contains the data from Sean Lahman's Baseball Database,
 https://www.seanlahman.com/baseball-archive/statistics/
 as a collection of data frames covering nearly all aspects of baseball
-statistics from 1871-2024.
+statistics from 1871-2025.
 
 In this release,
 
