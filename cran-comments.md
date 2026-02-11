@@ -23,17 +23,17 @@ Added `LazyDataCompression: xz` to the DESCRIPTION file, which should prevent th
 Lahman has reverse dependencies of the following packages:
 
 > devtools::revdep("Lahman")
- [1] "broom"          "dados"          "datos"          "dbplyr"         "dplyr"          "ibawds"         "implyr"        
- [8] "mdsr"           "pinnacle.data"  "r4ds.tutorials" "raw"            "sparklyr"       "teamcolors"   
+ [1] "broom"     "dados"     "datos"     "dbplyr"     "dplyr"     implyr"     "mdsr"     "pinnacle.data"     "raw"          
+[10] "sparklyr"  "teamcolors" 
 
 ## revdepcheck results
 
-We checked 14 reverse dependencies, comparing R CMD check results across CRAN and dev versions of this package.
+We checked 12 reverse dependencies, comparing R CMD check results across CRAN and dev versions of this package.
 
  * We saw 0 new problems
  * We failed to check 0 packages
 
 
 ## Comments
-This is an annual release, updating the data tables to the 2024 baseball season.
+This is an annual release, updating the data tables to the 2025 baseball season.
 
