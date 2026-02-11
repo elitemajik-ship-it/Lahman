@@ -2,7 +2,7 @@ Package: Lahman
 Type: Package
 Title: Sean 'Lahman' Baseball Database
 Version: 14.0-0
-Date: 2025-09-03
+Date: 2026-02-11
 Authors@R: c(person(given = "Michael", family = "Friendly", role="aut", email="friendly@yorku.ca"), 
         person(given ="Chris", family = "Dalzell", role=c("cre","aut"), email="cdalzell@gmail.com"),
         person(given ="Martin", family = "Monkman", role="aut"),
@@ -47,5 +47,5 @@ LazyDataCompression: xz
 BugReports: https://github.com/cdalzell/Lahman/issues
 Repository: CRAN
 NeedsCompilation: no
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 VignetteBuilder: knitr

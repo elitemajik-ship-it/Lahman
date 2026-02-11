@@ -1,14 +1,13 @@
-## Lahman package v. 13.0.0 released to CRAN
+## Lahman package v. 14.0.0 released to CRAN
 
-Team Lahman is pleased to announce that version 13.0.0 of the Lahman package is now
-on CRAN.  It contains the data from Sean Lahman's Baseball Database,
-https://www.seanlahman.com/baseball-archive/statistics/
+Team Lahman is pleased to announce that version 14.0.0 of the Lahman package is now
+on CRAN.  It contains the data from [Sean Lahman's Baseball Database](https://sabr.org/lahman-database/)
 as a collection of data frames covering nearly all aspects of baseball
 statistics from 1871-2025.
 
 In this release,
 
-* All data sets have been updated with data for the 2024 baseball season. In
+* All data sets have been updated with data for the 2025 baseball season. In
   addition, numerous corrections of data errors and inconsistencies discovered
   in previous year tables were applied.
 
