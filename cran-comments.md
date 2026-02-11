@@ -1,7 +1,7 @@
 ## Test environments
 - local Windows 11 x64 install, R version 4.5.2
 - local Ubuntu 24.04, R version 4.5.2
-- win-builder, R version 4.5.x
+- win-builder, R version 4.5.2
 - macOS (mac.r-project.org), R version 4.5.2
 
 ## R CMD check results
